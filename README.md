@@ -1,6 +1,6 @@
 # Child Penalty in Nepal Over the Years. (1995-2022)
 
-This is the clean code for Nepal Living Standard Survey (NLSS) IV, for a research project seeking to identify the child penalty for men and women in the Nepali workforce. We'll be employing the model from [Kleven et al. (2024)](https://academic.oup.com/restud/article/92/5/3174/7840285). 
+This is the clean code of Nepal Population Census 2021 for a research project seeking to identify the child penalty for men and women in the Nepali workforce. We'll be employing the model from [Kleven et al. (2024)](https://academic.oup.com/restud/article/92/5/3174/7840285). 
 
 The general hypothesis behind our study is that men relatively don't experience any penalty at the advent of child birth as women tend to absorb mostly all of it. We seek to find how child penalty is experienced across different economic areas (rural and urban) and probably, ethnicities in Nepal. 
 
